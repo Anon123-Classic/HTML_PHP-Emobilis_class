@@ -1,0 +1,27 @@
+ul {
+    background-color: green;
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    display: flex; /* Align items horizontally */
+    justify-content: start; /* Align items to the left */
+}
+
+li {
+    margin: 0 5px; /* Reduce space between each list item */
+}
+
+a {
+    text-decoration: none; /* Remove underline */
+    padding: 10px 10px; /* Reduce padding around the text */
+    font-size: 30px; /* Adjust font size */
+    color: black; /* Text color */
+}
+h2{
+    background-color: green;
+    text-align: center;
+}
+body{
+    background-color: whitesmoke
+}
+
